@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+help users to know the git
 
 ## What it does
 
-FEATURES PLACEHOLDER
+交互式
 
 ## Getting started
 
